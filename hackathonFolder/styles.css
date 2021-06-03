@@ -1,3 +1,14 @@
+.jumbotron{
+    background-repeat: no-repeat;
+    background-size: 500px 650px;
+    color: Black;
+      background-color: #ffdab9;
+    font-family: 'Indie Flower', cursive;
+
+}
+
 body{
     background-color: #ffdab9;
+   font-family: 'Indie Flower', cursive;
 }
+
